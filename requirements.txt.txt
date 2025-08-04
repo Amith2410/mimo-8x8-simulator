@@ -1,0 +1,6 @@
+MATLAB R2020a+ 
+OR 
+GNU Octave 6.4+
+
+Dependencies:
+- Communications Toolbox (qammod, qamdemod)
